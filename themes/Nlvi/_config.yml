@@ -1,0 +1,106 @@
+# ===========================================
+# Information Settings
+# ===========================================
+
+#navigation
+menu:
+  article: /
+  archives: /archives
+  tags: /tags
+  about: /about
+  # RSS: /atom.xml
+
+# favicon
+favicon:
+
+# ===========================================
+# Article Setting
+# ===========================================
+
+# Header Sign
+header_sign: ∮
+
+# Navigator in post
+# toc: false
+
+# Use copyright infomation
+copyright:
+  enable: false
+  license:
+
+#Reword button or message(fill your QRCode of any Pay.)
+reward:
+  enable: false
+  alipay:
+  wechat:
+  paypal:
+
+# ===========================================
+# Social Contact
+# ===========================================
+
+# Comments // Please only switch one on.
+comments:
+  enable: false
+  disqus:
+  uyan:
+  duoshuo:
+  netease:
+
+# sub //Please just fill out ID.
+sub:
+#  facebook:
+#  twitter:
+#  instagram:
+#  weibo:
+#  zhihu:
+#  github:
+#  linkedin:
+
+#Friend link
+#friendLink:
+
+# ===========================================
+# Analytics
+# ===========================================
+
+# google_analytics:
+
+# baidu_analytics:
+
+#visit_count(Powered by busuanzi on http://busuanzi.ibruce.info/)
+visit_count: false
+
+# ===========================================
+# Theme Settings
+# ===========================================
+
+# lightbox
+lightbox: true
+
+# animate (Powered by Syuanpi on https://colmugx.github.io/Syuanpi.css)
+animate: true
+
+# Created Time
+since: 1970
+
+#about
+self: Die!!!Die!!!!Die!!!!!!!!
+
+# ===========================================
+# Documents Styles
+# ===========================================
+
+# theme-style
+theme-style: gray
+
+# article-fonts
+# default | Simsun | YaHei | Hel
+fonts-style: default
+
+# ===========================================
+# Version
+# ===========================================
+version: 1.3
+
+#theme_author: Co1MugX
