@@ -69,5 +69,5 @@ theme: Nlvi
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git 
-  repo: https://github.com/chenfeng0713/chenfeng0713.github.io.git 
+  repo: git@github.com:chenfeng0713/chenfeng0713.github.io.git 
   branch: master 
