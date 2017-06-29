@@ -7,8 +7,8 @@ title: 沉风
 subtitle: 只有那些疯狂到认为自己可以改变世界的人才能真正地改变世界
 description: 欢迎来到我的个人博客
 author: chenfeng
-language: zh-CN
-timezone: chongqing
+language: zh-Hans
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: BlueLake
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
